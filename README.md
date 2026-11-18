@@ -2,9 +2,9 @@
 
 A small contact manager built as a hand-written MVC application in plain PHP 8 for the Advanced Computer assignment. It covers the unit topics 3–7: MySQL access through PDO and the custom MVC framework. The application has a front controller, models, views, controllers, a single administrator login and full create/read/update/delete for contacts. Every query that uses input is a prepared statement, every state-changing form is protected by a CSRF token, and all contact input is validated on the server. There is no framework, no Composer package and no JavaScript.
 
-- Student: `[Your name]`
-- Student ID: `[Your student ID]`
-- Repository (private): https://github.com/kvmy666/contact-manager
+- Student: Abdulkarim
+- Student ID: `202202900`
+- Repository : https://github.com/kvmy666/contact-manager
 - Submission archive: `contact-manager.zip`
 
 ## What it does
@@ -223,13 +223,11 @@ The project has no automated test suite; these checks were made with HTTP reques
 I declare that this project is my own work. I can explain every file and every security control in it, including why each one is present and how it behaves. I used an AI coding assistant to produce the first draft of the code and of this README, and I then read, reviewed, rewrote and tested the final project myself. No code was copied from another student. My sources were the unit lecture material in Modules 1–4 (MVC, forms, PDO and SQL injection) and the PHP manual pages for PDO, `password_hash`, sessions and `htmlspecialchars`, together with OWASP guidance on CSRF and XSS.
 
 ```text
-Name:        ______________________________
+Name:        Abdualkrim
 
-Student ID:  ______________________________
+Student ID:  202202900
 
-Date:        ______________________________
 
-Signature:   ______________________________
 ```
 
 ## Known limitations
